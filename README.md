@@ -20,4 +20,4 @@ One functions, `find_latest_genome`,find the latest genome from user input speci
 
 The `get_reference_sequence` locates the reference sequence to the genome that the user asks to see.
 
-Other features available are finding all the instances of the specific genome and outputting the data to an Excel file for easier access. 
+Other features available are finding all the instances of the specific genome, the description and date created
